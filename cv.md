@@ -42,27 +42,28 @@ return a * b;
 * Kurgan State University in Russia
 
 
-+ Specialty Sociology
+Specialty Sociology
 
 
 * Skillbox
 
 
-+ basic layout (HTML,Css, acquaintance with Js
+basic layout (HTML,Css, acquaintance with Js
 
 
 * Udemy
 
 
-+ HTML,Css
+HTML,Css
 
 
 * University "Synergy
 
 
-+ professional retraining "Web design and website development"
+professional retraining "Web design and website development"
 
-*RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## Languages
 Russian - native speaker
