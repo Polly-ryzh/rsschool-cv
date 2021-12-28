@@ -1,7 +1,5 @@
 # Ryzhkova Polina
 
-### junior frontend developer
-
 ## My contacts
 
 Phone: +7(958)2581313
@@ -10,7 +8,7 @@ Phone: +7(958)2581313
 E-mail: ryzhkova.polinka@yandex.ru
 
 
-GitHub: [Polly-ryzh] (https://github.com/Polly-ryzh)
+GitHub: [Polly-ryzh](https://github.com/Polly-ryzh/)
 
 
 Discord: Polina 3003 (๑Polly-ryzh)
