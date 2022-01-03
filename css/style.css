@@ -104,7 +104,7 @@ body {
     }
 
   .section{
-    width: 350px;
+    width: 360px;
     height: 600px;
     margin: 40px 30px 30px 0;
     border: 1px solid var(--cyan-color);
@@ -160,14 +160,40 @@ margin: 20px;
   }
 
   .section-summary{
-   width: 700px;
+   width: 760px;
   }
 
   .section-code{
-    width: 400px;
+    width: 500px;
    }
+
 
   .link-style:hover{
 color: var(--yellow-color);
   }
+
+  
+
+  /*footer*/
+
+  .footer{
+    height: 120px;
+    background-color: var(--yellow-color)
+  }
+
+  .icon-school{
+    width: 150px;
+  }
+
+  .footer-container{
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+ }
+
+ .footer-link:hover{
+   color: var(--cyan-color);
+ }
  
